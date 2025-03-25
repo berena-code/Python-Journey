@@ -15,7 +15,3 @@ elif operation == "/":
         print(num_1 / num_2)
 else: 
     print("Error: Invalid operation")
-    
-git add .
-git commit -m "Added my document"
-git push origin main
